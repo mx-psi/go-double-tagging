@@ -1,3 +1,3 @@
 package godoubletagging
 
-const SomeSymbol = "InitialVersion"
+const SomeSymbol = "SecondAndStableVersion"
